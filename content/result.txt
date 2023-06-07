@@ -1,0 +1,1 @@
+this is the result file: Hello this is the first text file, Hello this is the second text filethis is the second statement appneded file: Hello this is the first text file, Hello this is the second text file

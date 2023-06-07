@@ -1,0 +1,11 @@
+// module
+ const {John,Peter} = require('./one')
+const sayHi = require('./two')
+// console.log(names)
+// console.log(functn)
+require('./mind')
+const data = require('./flavor')
+console.log(data.item)
+sayHi('susan')
+sayHi(John)
+sayHi(Peter)
